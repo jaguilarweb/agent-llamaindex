@@ -1,3 +1,8 @@
+# Turoriales LlamaIndex
+
+Ejercicios de práctica, siguiendo los tutoriales de [Llamaindex](https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local/)
+
+
 # Disclaimer
 
 - Este repositorio tiene material con proposito académico, de exploración y aprendizaje. El uso del material que aquí se expone es responsabilidad de quien lo use. Se sabio y ético en el uso de la información. (Be wise and ethical in the use of information)
